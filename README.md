@@ -1,4 +1,4 @@
-## **Hey 👋, I'm Md Imtiyaz Alam (Java Developer)**  
+## ***Hey 👋, I'm Md Imtiyaz Alam (Java Developer)***  
   
 
 <a href="https://github.com/mdimtiyazalam12" target="_blank">
@@ -38,6 +38,12 @@ Skillful in Java Developer, hands on experience on web development tools.
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
+  
+
+- Unleash the Power of Java: Code, Compile, Conquer  
+  
+
+- Java Magic: Crafting Future-Ready Applications  
 
 
 </td><td valign="top" width="50%">
@@ -45,6 +51,9 @@ Skillful in Java Developer, hands on experience on web development tools.
 <div align="center">
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" align="center" style="width: 100%" />
 </div>  
+  
+
+- Mastering Java: Your Gateway to Versatile Programming  
 
 
 </td></tr></table>  
